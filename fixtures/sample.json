@@ -1,0 +1,25 @@
+{
+  "source_id": "source-a",
+  "url": "https://example.test/source",
+  "status": 200,
+  "headers": [
+    [
+      "Content-Type",
+      "text/plain; charset=utf-8"
+    ],
+    [
+      "ETag",
+      "\"zh-v1\""
+    ],
+    [
+      "Vary",
+      "Accept-Language"
+    ],
+    [
+      "Cache-Control",
+      "max-age=60"
+    ]
+  ],
+  "body_base64": "5Lqn5Lia6LWE6K6v5q2j5paH",
+  "metadata": {}
+}
