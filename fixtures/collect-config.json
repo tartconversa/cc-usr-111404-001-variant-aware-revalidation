@@ -1,0 +1,19 @@
+{
+  "source_id": "industry-daily",
+  "credential_scope": "partner-zh",
+  "url": "http://127.0.0.1:8000/source",
+  "headers": [
+    [
+      "Accept-Language",
+      "zh"
+    ],
+    [
+      "Accept",
+      "text/plain"
+    ]
+  ],
+  "sensitive_headers": [],
+  "shared_scope": null,
+  "max_redirects": 5,
+  "max_bytes": 1048576
+}
